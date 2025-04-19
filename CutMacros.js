@@ -1,0 +1,2 @@
+/*Function Calculates how many calories one has to eat in a cut. Function takes TDEE then depending on cut level (Level 0 Cut deducts 500 calories, Level 1 deducts 1000 calories).
+This function returns an array with a) How many calories they have to eat b) Their Daily Protein Intake c) Their Daily Carb Intake d) Their Daily Fat Intake. All Macros are in grams.*/
